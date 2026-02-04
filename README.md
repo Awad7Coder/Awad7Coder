@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Awad Fahim Awad
-**Full-Stack Developer (MERN, NestJS, PHP/Laravel) · Alexandria, Egypt** 📫 [awadfahem7@gmail.com](mailto:awadfahem7@gmail.com) · 🇪🇬 [+20 122 287 0810](https://wa.me/201222870810) · [LinkedIn](https://www.linkedin.com/in/awad-fahim-661550378/) · [Portfolio](https://portfolio-2sa5.vercel.app/) · [Codewars](https://www.codewars.com/users/awad_fahem)
+**Full-Stack Developer (MERN Stack & NestJS) · Alexandria, Egypt** 📫 [awadfahem7@gmail.com](mailto:awadfahem7@gmail.com) · 🇪🇬 [+20 122 287 0810](https://wa.me/201222870810) · [LinkedIn](https://www.linkedin.com/in/awad-fahim-661550378/) · [Portfolio](https://portfolio-2sa5.vercel.app/) · [Codewars](https://www.codewars.com/users/awad_fahem)
 
 ---
 
 ## 🚀 About Me
-I'm a results-driven Full-Stack Developer focused on building scalable web applications and real-time systems. With a unique academic background in **Archaeological Information Systems**, I specialize in bridging the gap between complex data management and modern web technologies. I enjoy clean architecture, system design, and turning complex requirements into high-performance user experiences.
+I'm a results-driven Full-Stack Developer specializing in the **MERN Stack** and **NestJS**. I focus on building scalable, maintainable web applications and real-time systems. With a unique background in **Archaeological Information Systems**, I excel at turning complex data requirements into seamless, high-performance user experiences.
 
-**Core strengths:** MERN Stack, NestJS, RESTful APIs, Real-time communication (Socket.io), and Database Design.
+**Core strengths:** MERN Stack, NestJS, RESTful & Real-time APIs, Microservices, and Database Architecture.
 
 ---
 
@@ -15,34 +15,51 @@ I'm a results-driven Full-Stack Developer focused on building scalable web appli
 ![TypeScript](https://img.shields.io/badge/TypeScript-%232547B2.svg?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-17+-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-14+-43853D?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-8+-FF2D20?logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
 
 ---
 
 ## 🔭 Current Focus
-- Scaling the **Imhotep Museum (Saqqara)** database system and digitization workflows.
-- Advanced Backend Engineering with **NestJS** and Microservices.
-- Integrating **AI/ML** models for automated data classification in archaeological contexts.
+- 🚀 **Advanced MERN Engineering:** Developing high-traffic applications with optimized React patterns and Node.js performance.
+- 🏗️ **Backend Architecture:** Deep diving into **NestJS Microservices** and event-driven architecture.
+- 🔐 **Security & Scaling:** Implementing advanced JWT workflows, Redis caching, and CI/CD pipelines.
 
 ---
 
 ## ⭐ Featured Projects
-> Click project names to view repos or visit my portfolio for live demos.
+> Click icons to view Code (📂) or Live Demo (🌐).
 
-- **[Imhotep Museum Database System](https://github.com/Awad7Coder)** — A web-based platform to digitize and manage archaeological records. *(React, Laravel, MySQL)* - **[Real-Time Chat App](https://github.com/Awad7Coder)** — Low-latency messaging platform featuring group chats and JWT security. *(React, Node, Socket.io, MongoDB)* - **[Book Store Management](https://github.com/Awad7Coder)** — E-commerce system with full inventory tracking and CRUD operations. *(MERN Stack)* - **[Spotify Clone](https://github.com/Awad7Coder)** — Interactive music streaming UI with dynamic playlist management. *(React, TailwindCSS)*
+- **[Smart Market](https://github.com/Awad7Coder/Smart-Market)** 📂
+  - An advanced e-commerce platform featuring smart filtering, secure checkout, and real-time inventory updates. 
+  - *Tech: MERN Stack.*
 
-*Full project list & live demos:* [Portfolio](https://portfolio-2sa5.vercel.app/) · *Source:* [github.com/Awad7Coder](https://github.com/Awad7Coder)
+- **[Where To Go](https://github.com/Awad7Coder/where-to-go)** 📂 · [**Live Demo**](https://where-to-go-one.vercel.app/) 🌐
+  - A comprehensive travel and destination discovery platform helping users find their next adventure. 
+  - *Tech: MERN Stack, TailwindCSS.*
+
+- **[Book Store](https://github.com/Awad7Coder/BookStore)** 📂 · [**Live Demo**](https://book-store-pxqd.vercel.app/) 🌐
+  - Full-stack management system for inventories with secure checkout workflows.
+  - *Tech: React, Node.js, MongoDB.*
+
+- **[Real-Time Chat App](https://github.com/Awad7Coder/ChatAPP)** 📂
+  - Instant messaging system supporting group rooms and real-time status updates.
+  - *Tech: Socket.io, Express, React, MongoDB.*
 
 ---
 
 ## 🎓 Education & Certifications
-- **B.Sc. Archaeological Information Systems** — Cairo University (GPA: A, June 2025)  
-- **Data Science & AI** (Dotpy, 2024) · **Full-Stack Python** (ITI, 2024) · **Back-End** (Array, 2024) · **Front-End** (NTI, 2025)
+- B.Sc. Archaeological Information Systems** — Cairo University (GPA: A, June 2025)
+- **DEPI  — React Frontend Development
+- **Data Science & AI (Dotpy, 2024)** — Python, Machine Learning, and Deep Learning.
+- **Full Stack Python Development (ITI, 2024)** — Intensive training in Flask/Django and backend architecture.
+- **Back-End Development (Array, 2024)** — Advanced Nodejs, Express, and API authentication workflows.
+- **Front-End Development (NTI, 2025)** — Responsive design and UI/UX best practices.
+- **Freelancing Training (ITIDA, 2025)** — Professional communication and project management.
 
 ---
 
@@ -54,10 +71,9 @@ I'm a results-driven Full-Stack Developer focused on building scalable web appli
 
 ## 💬 How to Reach Me
 - **WhatsApp:** [+20 122 287 0810](https://wa.me/201222870810)
-- **LinkedIn:** [awad-fahim-661550378](https://www.linkedin.com/in/awad-fahim-661550378/)
+- **LinkedIn:** [/in/awad-fahim-661550378](https://www.linkedin.com/in/awad-fahim-661550378/)
 - **Email:** [awadfahem7@gmail.com](mailto:awadfahem7@gmail.com)
-- **Codewars:** [awad_fahem](https://www.codewars.com/users/awad_fahem)
 
 ---
 
-**Thanks for visiting my profile — let's build something great.** 🚀
+**Thanks for visiting! Let's build something exceptional.** 🚀
