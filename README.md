@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Awad Fahim Awad
-**Full-Stack Developer (MERN, NestJS, PHP/Laravel) · Alexandria, Egypt**  
-📫 awadfahem7@gmail.com · 🇪🇬 +20 122 287 0810 · [LinkedIn](https://www.linkedin.com/in/awad-fahim-661550378/) · [Portfolio](https://portfolio-2sa5.vercel.app/) · [Website / GitHub](https://github.com/Awad7Coder)
+**Full-Stack Developer (MERN, NestJS, PHP/Laravel) · Alexandria, Egypt** 📫 [awadfahem7@gmail.com](mailto:awadfahem7@gmail.com) · 🇪🇬 [+20 122 287 0810](https://wa.me/201222870810) · [LinkedIn](https://www.linkedin.com/in/awad-fahim-661550378/) · [Portfolio](https://portfolio-2sa5.vercel.app/) · [Codewars](https://www.codewars.com/users/awad_fahem)
 
 ---
 
 ## 🚀 About Me
-I'm a Full-Stack Developer focused on building scalable, maintainable web applications and APIs. I work with JavaScript/TypeScript on both front-end and back-end, and have experience with PHP/Laravel for real-world projects (museum systems, e-commerce, real-time apps). I enjoy clean architecture, system design, and turning requirements into delightful user experiences.
+I'm a results-driven Full-Stack Developer focused on building scalable web applications and real-time systems. With a unique academic background in **Archaeological Information Systems**, I specialize in bridging the gap between complex data management and modern web technologies. I enjoy clean architecture, system design, and turning complex requirements into high-performance user experiences.
 
-**Core strengths:** REST & real-time APIs, database design, React, NestJS, Laravel, cloud deployment and CI/CD.
+**Core strengths:** MERN Stack, NestJS, RESTful APIs, Real-time communication (Socket.io), and Database Design.
 
 ---
 
@@ -19,67 +18,46 @@ I'm a Full-Stack Developer focused on building scalable, maintainable web applic
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-8+-FF2D20?logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f0ff.svg?logo=mysql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Awad7Coder-181717?logo=github&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)
 
 ---
 
 ## 🔭 Current Focus
-- Building the **Imhotep Museum / Saqqara** database and ticketing platform (PHP/Laravel + React).
-- Expanding backend expertise with **NestJS** and microservices.
-- AI/ML basics for artifact identification (image models & dataset pipelines).
+- Scaling the **Imhotep Museum (Saqqara)** database system and digitization workflows.
+- Advanced Backend Engineering with **NestJS** and Microservices.
+- Integrating **AI/ML** models for automated data classification in archaeological contexts.
 
 ---
 
 ## ⭐ Featured Projects
 > Click project names to view repos or visit my portfolio for live demos.
 
-- **Database System Center – Imhotep Museum, Saqqara** — web system to digitize archaeological records, ticketing and admin tools. *(React, Laravel, MySQL)*  
-- **Book Store Management System** — full-stack e-commerce + inventory management. *(React, Node, MongoDB)*  
-- **Spotify Clone (UI)** — interactive streaming-like frontend and playlist controls. *(React, Tailwind)*  
-- **Real-Time Chat Application** — one-to-one & group messaging using Socket.io + JWT auth. *(React, Node, Socket.io, MongoDB)*
+- **[Imhotep Museum Database System](https://github.com/Awad7Coder)** — A web-based platform to digitize and manage archaeological records. *(React, Laravel, MySQL)* - **[Real-Time Chat App](https://github.com/Awad7Coder)** — Low-latency messaging platform featuring group chats and JWT security. *(React, Node, Socket.io, MongoDB)* - **[Book Store Management](https://github.com/Awad7Coder)** — E-commerce system with full inventory tracking and CRUD operations. *(MERN Stack)* - **[Spotify Clone](https://github.com/Awad7Coder)** — Interactive music streaming UI with dynamic playlist management. *(React, TailwindCSS)*
 
 *Full project list & live demos:* [Portfolio](https://portfolio-2sa5.vercel.app/) · *Source:* [github.com/Awad7Coder](https://github.com/Awad7Coder)
 
 ---
 
 ## 🎓 Education & Certifications
-- **Archaeological Information Systems** — Cairo University (June 2025)  
-- Data Science & AI (Dotpy, 2024) · Full-Stack Python (ITI, 2024) · Back-End Development (Array, 2024) · Front-End (NTI, 2025)
+- **B.Sc. Archaeological Information Systems** — Cairo University (GPA: A, June 2025)  
+- **Data Science & AI** (Dotpy, 2024) · **Full-Stack Python** (ITI, 2024) · **Back-End** (Array, 2024) · **Front-End** (NTI, 2025)
 
 ---
 
 ## 📈 GitHub Stats
-<!-- GitHub Readme Stats cards (copy-paste as-is). Replace `Awad7Coder` with your username if different. -->
 [![Awad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awad7Coder&show_icons=true&theme=dark&count_private=true)](https://github.com/Awad7Coder)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awad7Coder&layout=compact&theme=dark)](https://github.com/Awad7Coder)
 
 ---
 
-## 📚 What I'm Learning
-- Advanced backend architecture with **microservices** and message brokers (Redis / RabbitMQ)
-- Practical ML model deployment for image classification (artifact identification)
-- DevOps: Docker, CI/CD pipelines, and automated testing for production systems
-
----
-
 ## 💬 How to Reach Me
-- Email: **awadfahem7@gmail.com**  
-- Phone/WhatsApp: **+20 122 287 0810**  
-- Portfolio & CV: [Portfolio](https://portfolio-2sa5.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/awad-fahim-661550378/)  
-- GitHub: [github.com/Awad7Coder](https://github.com/Awad7Coder)
+- **WhatsApp:** [+20 122 287 0810](https://wa.me/201222870810)
+- **LinkedIn:** [awad-fahim-661550378](https://www.linkedin.com/in/awad-fahim-661550378/)
+- **Email:** [awadfahem7@gmail.com](mailto:awadfahem7@gmail.com)
+- **Codewars:** [awad_fahem](https://www.codewars.com/users/awad_fahem)
 
 ---
-
-## 🤝 Looking for
-Open to contributing to backend projects, freelance contracts, and full-time roles — especially work that mixes backend APIs, data, and user-facing web apps. Available for collaborations and mentoring juniors.
-
----
-
-<!--
-Optional: If you want a visual header/profile GIF, add it here:
-![header](link-to-image)
--->
 
 **Thanks for visiting my profile — let's build something great.** 🚀
